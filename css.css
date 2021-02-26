@@ -245,7 +245,7 @@ h2 {
 
 .nagy {
     font-size: 125%;
-    
+    border: solid black 3px;
     background: red;
     border-radius: 20px;
     
